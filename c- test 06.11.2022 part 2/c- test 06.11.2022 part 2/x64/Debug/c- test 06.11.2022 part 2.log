@@ -1,0 +1,5 @@
+﻿  lotto.c
+C:\Users\oferm\source\repos\C learning\assigments\c- test 06.11.2022 part 2\c- test 06.11.2022 part 2\lotto.c(42,3): warning C4033: 'Add' must return a value
+C:\Users\oferm\source\repos\C learning\assigments\c- test 06.11.2022 part 2\c- test 06.11.2022 part 2\lotto.c(89,24): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\oferm\source\repos\C learning\assigments\c- test 06.11.2022 part 2\c- test 06.11.2022 part 2\lotto.c(98,17): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+  c- test 06.11.2022 part 2.vcxproj -> C:\Users\oferm\source\repos\C learning\assigments\c- test 06.11.2022 part 2\x64\Debug\c- test 06.11.2022 part 2.exe
