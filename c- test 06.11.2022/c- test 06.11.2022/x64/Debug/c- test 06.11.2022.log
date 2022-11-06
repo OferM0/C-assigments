@@ -1,0 +1,4 @@
+﻿  Targil3.c
+C:\Users\oferm\source\repos\C learning\assigments\c- test 06.11.2022\c- test 06.11.2022\Targil3.c(44,23): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\oferm\source\repos\C learning\assigments\c- test 06.11.2022\c- test 06.11.2022\Targil3.c(30,17): warning C4101: 'ch': unreferenced local variable
+  c- test 06.11.2022.vcxproj -> C:\Users\oferm\source\repos\C learning\assigments\c- test 06.11.2022\x64\Debug\c- test 06.11.2022.exe
